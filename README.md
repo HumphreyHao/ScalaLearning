@@ -28,7 +28,7 @@ Has no deployment.
 
 Please read [CONTRIBUTING.md](#) for details on our code of conduct, and the process for submitting pull requests to us.
 
-清阅读 [CONTRIBUTING.md](#) 了解如何向这个项目贡献代码
+请阅读 [CONTRIBUTING.md](#) 了解如何向这个项目贡献代码
 
 ## Release History 版本历史
 * 0.1.0
