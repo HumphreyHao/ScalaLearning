@@ -12,7 +12,7 @@ Use IDEA to open project, import all the package with maven, and you can run it.
 
 ### Prerequisites 项目使用条件
 
-Need IDEA and JAVA 1.8SDK.
+Need IDEA and JAVA 1.8 SDK.
 
 
 ### Installation 安装
@@ -42,4 +42,4 @@ Please read [CONTRIBUTING.md](#) for details on our code of conduct, and the pro
 
 ## License 授权协议
 
-这个项目 MIT 协议， 请点击 [license.md](LICENSE.md) 了解更多细节。
+这个项目 MIT 协议， 请点击 [license.md](license.md) 了解更多细节。
